@@ -7,7 +7,7 @@ Take out some time and check it all 😄
  
 2. CovidStats :-  https://nikcodes-covidstats.netlify.app
 
-3. Wildlife-Animation :-  https://nikcodes-animation.netlify.app
+3. Wildlife-Animation :-  https://nikcodes-animation.netlify.app  (This one is my favourite as I love Animals and Nature 😄❤️)
  
 4. Weather-Forecasting :- https://share.streamlit.io/nikhileshshah01/weather-forecasting/main/weather.py
  
@@ -18,3 +18,5 @@ Take out some time and check it all 😄
 7. Counter :-  https://nikcodes-counter.netlify.app
 
 8. FoodHub :-  https://github.com/NikhileshShah01/FoodHub
+
+P.S : I will keep updating it regularly.
