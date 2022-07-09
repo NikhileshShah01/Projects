@@ -22,4 +22,4 @@ Take out some time and check it all 😄
 
 
 
-P.S : I will keep updating it regularly.
+ P.S : I will keep updating it regularly.
