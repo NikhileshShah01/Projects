@@ -5,21 +5,23 @@ Take out some time and check it all 😄
  
 1. CovidStats :-  https://nikcodes-covidstats.netlify.app
 
-2. Text-Translator :-  https://nikhileshshah01-nik-translator-app-2xuqnr.streamlitapp.com/
+2. Weather-Forecasting :- https://share.streamlit.io/nikhileshshah01/weather-forecasting/main/weather.py
 
-3. To-Do List :-  https://nikcodes-todolist.netlify.app
+3. NutrifyMe :-  https://github.com/NikhileshShah01/NutrifyMe
 
 4. Wildlife-Animation :-  https://nikcodes-animation.netlify.app  (This one is my favourite as I love Animals and Nature 😄❤️)
+
+5. To-Do List :-  https://nikcodes-todolist.netlify.app
+
+6. Text-Translator :-  https://nikhileshshah01-nik-translator-app-2xuqnr.streamlitapp.com/
+
+7. Map Locator :- https://share.streamlit.io/nikhileshshah01/map-locator/main/app.py
+
+8. FoodHub :-  https://github.com/NikhileshShah01/FoodHub
+
+9. Calculator :-  https://nikcodes-calculator.netlify.app
  
-5. Weather-Forecasting :- https://share.streamlit.io/nikhileshshah01/weather-forecasting/main/weather.py
-
-6. Map Locator :- https://share.streamlit.io/nikhileshshah01/map-locator/main/app.py
-
-7. FoodHub :-  https://github.com/NikhileshShah01/FoodHub
-
-8. Calculator :-  https://nikcodes-calculator.netlify.app
- 
-9. Counter :-  https://nikcodes-counter.netlify.app
+10. Counter :-  https://nikcodes-counter.netlify.app
 
 
 
