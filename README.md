@@ -21,10 +21,10 @@ Take out some time and check it all 😄
 
 9. Calculator :-  https://nikcodes-calculator.netlify.app
  
-10. Counter :-  https://nikcodes-counter.netlify.app
+ 10. Counter :-  https://nikcodes-counter.netlify.app
 
 
 
 
 
- P.S : I will keep updating it regularly.
+  P.S : I will keep updating it regularly.
