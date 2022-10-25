@@ -13,9 +13,9 @@ Take out some time and check it all 😄
 
 5. To-Do List :-  https://nikcodes-todolist.netlify.app
 
-6. Text-Translator :-  https://nikhileshshah01-nik-translator-app-2xuqnr.streamlitapp.com/
+6. Text-Translator :-  https://nikcodes-text-translator.streamlitapp.com
 
-7. Map Locator :- https://share.streamlit.io/nikhileshshah01/map-locator/main/app.py
+7. Map Locator :- https://nikcodes-maplocator.streamlitapp.com
 
 8. FoodHub :-  https://github.com/NikhileshShah01/FoodHub
 
